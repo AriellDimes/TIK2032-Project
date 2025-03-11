@@ -3,7 +3,7 @@ Repositori Project TIK2032 - Ariell Z.V. Dimes 220211060208
 
 Repository ini berisi kumpulan tugas proyek dalam mata kuliah TIK2032. Setiap proyek memiliki foldernya sendiri, dan halaman utama repository ini (index.html) berfungsi sebagai portal untuk mengakses proyek-proyek tersebut dengan mudah.
 
-📂 Struktur Repository
+## 📂 Struktur Repository
 
 TIK2032-Project/
 │── index.html  → Portal utama ke semua proyek
